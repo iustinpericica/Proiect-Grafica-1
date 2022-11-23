@@ -1,0 +1,3 @@
+/Users/iustin/CLionProjects/ProiectGraficaPI/cmake-build-debug/CMakeFiles/macOS.dir
+/Users/iustin/CLionProjects/ProiectGraficaPI/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/iustin/CLionProjects/ProiectGraficaPI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
